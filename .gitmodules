@@ -1,6 +1,0 @@
-[submodule "continuum-android-app"]
-	path = android
-	url = git@github.com:antonalexraja/continuum-android-app.git
-[submodule "engine"]
-	path = engine
-	url = git@github.com:antonalexraja/engine.git
